@@ -36,5 +36,22 @@
     "awesome-typescript-loader": "^5.2.1",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.2.4"
-  }
+  },
+  "description": "Starter repo for task 3 of JPMC's Forage program",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corpvet1/jpmc-task-3.git"
+  },
+  "keywords": [
+    "chase",
+    "task",
+    "3"
+  ],
+  "author": "Stanley Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corpvet1/jpmc-task-3/issues"
+  },
+  "homepage": "https://github.com/corpvet1/jpmc-task-3#readme"
 }
